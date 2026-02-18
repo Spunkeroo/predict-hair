@@ -1,0 +1,27 @@
+# predict.hair — Hair & Hairstyles Prediction Markets
+
+> Real-time prediction markets for hair & hairstyles. Bet on outcomes, see live odds, and win. Free to play with shared pools powered by Firebase.
+
+
+predict.hair is a prediction market platform focused on hair & hairstyles. Users can bet YES or NO on curated markets with real-time shared pools. Features live odds, countdown timers, trending markets, and social sharing. Part of the Predict Network — 18 niche prediction market sites.
+
+
+## Pages
+
+- [Homepage — Hair & Hairstyles prediction markets with live odds](https://predict.hair)
+- [Markets — Active hair & hairstyles prediction markets](https://predict.hair#markets)
+
+
+## Keywords
+
+prediction market, hair & hairstyles, betting, odds, forecast, predict.hair
+
+
+## Related Sites
+
+- [Spunk.Bet — Free Crypto Casino](https://spunk.bet)
+- [Stimulant Wiki — Nootropic Encyclopedia](https://stimulant.wiki)
+- [Stimulant Doctor — ADHD & Focus Guide](https://stimulant.doctor)
+- [Stimulant Shop — Buy Nootropics](https://stimulant.shop)
+- [@SpunkArt13 on X](https://x.com/SpunkArt13)
+- [SpunkArt.com](https://spunkart.com)

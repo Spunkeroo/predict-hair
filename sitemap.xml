@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.hair/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.hair/privacy.html</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://predict.hair/blog/hair-trends-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.hair/blog-best-hair-products-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.hair/blog/best-hair-care-products-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.hair/blog-best-hair-tools-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url><loc>https://predict.hair/blog/hair-industry-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/hair-trend-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/hair-trends-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/hair-care-market-forecast-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/hair-color-trend-predictions-2027.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/ai-powered-hair-styling-predictions-2027.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/sustainable-hair-care-market-predictions-2027.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.hair/blog/hair-loss-treatment-predictions-breakthroughs.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://predict.hair/blog-hair-growth-tips-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.hair/blog-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
